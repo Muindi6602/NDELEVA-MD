@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=C-iph3r&color=brightgreen" />
 <p/>
 <p align="center">
-<a href="https://github.com/C-iph3r"><img title="Author" src="https://img.shields.io/badge/Alpha-md-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/C-iph3r"><img title="Author" src="https://img.shields.io/badge/NDELEVA-MD-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Ndelevamutua?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/C-iph3r?label=Followers&style=social"></a>
@@ -30,7 +30,7 @@
    <br>
 <a href='https://alpha-qr-3083f89437a9.herokuapp.com/' target="_blank"><img alt='GET SESSION' src='https://img.shields.io/badge/SCAN-QR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
   <br>
-  <a href='https://qr-pair-63r7.onrender.com/' target="_blank"><img alt='GET PAIRING CODE' src='https://img.shields.io/badge/SCAN-QR2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+  <a href='https://qr-pair-63r7.onrender.com/' target="_blank"><img alt='GET PAIRING CODE' src='https://img.shields.io/badge/SCAN-PAIRING CODE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
 ### INFORMATION !(BOT WONT WORK WITHOUT THIS)
