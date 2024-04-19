@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=C-iph3r&color=brightgreen" />
 <p/>
 <p align="center">
-<a href="https://github.com/C-iph3r"><img title="Author" src="https://img.shields.io/badge/NDELEVA-MD-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/Ndelevamutua"><img title="Author" src="https://img.shields.io/badge/NDELEVA-MD-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Ndelevamutua?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/C-iph3r?label=Followers&style=social"></a>
@@ -38,7 +38,7 @@
 ### SUPPORT GROUP
 In case of support or any issues you can come here
 
-[![WhatsApp](https://img.shields.io/badge/alpha-md-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DfgtYR8HV67103lml8peP6) 
+[![WhatsApp](https://img.shields.io/badge/NDELEVA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DfgtYR8HV67103lml8peP6) 
 
 ***
 
