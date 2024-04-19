@@ -38,7 +38,7 @@
 ### SUPPORT GROUP
 In case of support or any issues you can come here
 
-[![WhatsApp](https://img.shields.io/badge/NDELEVA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DfgtYR8HV67103lml8peP6) 
+[![WhatsApp](https://img.shields.io/badge/NDELEVA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DfgtYR8HV671O3Iml8peP6) 
 
 ***
 
