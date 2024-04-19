@@ -1,0 +1,131 @@
+
+{
+  "name": "ndeleva@1.0.8",
+  "description": "simple multi featured whatsapp bot",
+  "keywords": ["whatsapp"],
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "your session id to run bot",
+      "required": true,
+      "value": ""
+    },
+    "HEROKU_API_KEY": {
+      "description": "For updating bot and setting vars remotely",
+      "required": true,
+      "value": ""
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Exact name which you gave at the top",
+      "required": true,
+      "value": ""
+    },
+    "WORKTYPE": {
+      "description": "enter bot mode must be public/private",
+      "required": true,
+      "value": "private"
+    },
+    "BOT_INFO": {
+      "description": "baasic bot info config img url can be mp4 too",
+      "required": true,
+      "value": "Alpha-md;Cipher;https://i.imgur.com/nXqqjPL.jpg"
+    },
+    "PREFIX": {
+      "description": "bot preifx  ., [.,!], false",
+      "required": true,
+      "value": "."
+    },
+    "AUDIO_DATA": {
+      "description": "audio metadata",
+      "required": true,
+      "value": "NDELEVA"
+    },
+    "STICKER_DATA": {
+      "description": "sticker data",
+      "required": true,
+      "value": "NDELEVA"
+    },
+    "PERSONAL_MESSAGE": {
+      "description": "personal greetings for first message ",
+      "required": true,
+      "value": "*Hello there!  I'm NDELEVA, i'm here to assist you while my owner is currently occupied. Don't worry, I'm equipped to help you out with whatever you need. Feel free to chat with me! 🚀✨*"
+    },
+    "REJECT_CALL": {
+      "description": "automatically reject calls",
+      "required": true,
+      "value": "false"
+    },
+    "WARNCOUNT": {
+      "description": "warn count for groups",
+      "required": true,
+      "value": "3"
+    },
+    "SUDO": {
+      "description": "add other numbers here separated by a comma(,)",
+      "required": true,
+      "value": ""
+    },
+    "AJOIN": {
+      "description": "automatically join to all groups",
+      "required": true,
+      "value": "false"
+    },
+    "SAVE_STATUS": {
+      "description": "save all status message",
+      "required": true,
+      "value": "false"
+    },
+    "STATUS_VIEW": {
+      "description": "status views, values= true,only-view=jid, not-view=jid",
+      "required": true,
+      "value": "true"
+    },
+    "ERROR_MSG": {
+      "description": "send error messages to bot number",
+      "required": true,
+      "value": "true"
+    },
+    "RMBG_KEY": {
+      "description": "remove.bg API key",
+      "required": false,
+      "value": ""
+    },
+    "OPEN_AI": {
+      "description": "OpenAI API key",
+      "required": false,
+      "value": ""
+    },
+    "ELEVENLABS": {
+      "description": "Eleven Labs API key",
+      "required": false,
+      "value": ""
+    },
+    "ALPHA_KEY": {
+      "description": "NDELEVA API key (get it from https://api.alpha-md.rf.gd/signup)",
+      "required": true,
+      "value": ""
+    },
+    "OCR_KEY": {
+      "description": "OCR API key",
+      "required": true,
+      "value": "K84003107488957"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
