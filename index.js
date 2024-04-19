@@ -187,7 +187,7 @@ const WhatsBotConnect = async () => {
         return msg?.message;
       }
       return {
-        conversation: "Hi im Alpha-md",
+        conversation: "Hi im NDELEVA-MD",
       };
     }
     conn = new WAConnection(conn);
@@ -2339,7 +2339,7 @@ const WhatsBotConnect = async () => {
                               m.command +
                               "```\n```version: " +
                               require("./package.json").version +
-                              "```\n```letest vesion: " +
+                              "```\n```latest vesion: " +
                               version +
                               "```\n```user: @" +
                               m.sender.replace(/[^0-9]/g, "") +
