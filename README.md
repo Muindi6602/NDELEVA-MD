@@ -28,7 +28,7 @@
 ### GET SESSION ID
 - Click here to get your session id
    <br>
-<a href='https://alpha-qr-3083f89437a9.herokuapp.com/' target="_blank"><img alt='GET SESSION' src='https://img.shields.io/badge/SCAN-QR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://qr-pair-63r7.onrender.com/' target="_blank"><img alt='GET SESSION' src='https://img.shields.io/badge/SCAN-QR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
   <br>
   <a href='https://qr-pair-63r7.onrender.com/' target="_blank"><img alt='GET PAIRING CODE' src='https://img.shields.io/badge/SCAN-PAIRING CODE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
